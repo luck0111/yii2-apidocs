@@ -1,0 +1,1 @@
+echo "# yii2-apidocs"
